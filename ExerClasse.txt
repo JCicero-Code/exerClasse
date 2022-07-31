@@ -1,0 +1,50 @@
+﻿----------------------------------------------------------
+Objetos materiais
+----------------------------------------------------------
+
+Classe Gato
+raca:
+cor:
+tamanho:
+
+Metodo miar()
+Metodo pular()
+Metodo comer()
+
+
+
+
+
+Classe Lapis
+marca:
+cor:
+tamanho:
+
+Metodo escrever()
+Metodo desenhar()
+Metodo pintar()
+
+-----------------------------------------------------------
+Objetos abstratos
+-----------------------------------------------------------
+
+Classe Musica
+licenca:
+duracao:
+autor:
+
+Metodo reproduzir()
+Metodo alterar()
+Metodo copiar()
+
+
+
+
+Classe Player
+velocidade:
+cor:
+tamanho:
+
+Metodo reroduzir()
+Metodo parar()
+Metodo pausar()
